@@ -1,7 +1,7 @@
 #EXTM3U x-tvg-url="https://www.open-epg.com/files/argentina.xml,https://www.open-epg.com/files/uruguay.xml,https://www.open-epg.com/files/mexico2.xml,https://www.open-epg.com/files/colombia2.xml,https://www.open-epg.com/files/peru.xml"
 
 #EXTINF:-1,N
-https://cyberuno.cdn.rcs.net.ar/mnp/yb00000004pgcoaan51zn2w74bzgpszr/output.mpd
+https://cyberuno.cdn.rcs.net.ar/mnp/yb00000004pgcan51zn2w74bzgpszr/output.mpoad
 
 
 
@@ -21,13 +21,13 @@ https://g4.vxral-slo.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-200
 
 
 #EXTINF:-1 tvg-id="232330" tvg-name="El Nueve.ar" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/9_de_argentina-mediano.png", El Nueve.ar
-http://zonacero.lat:8080/YnJDTHJSdXRDQ1dRQy9wczcrQkY4cmpBVmxDOEp3dnc5aDh3R2UzcmJ2SXVkMkFVZXBEVXJkWklZWGs1MVpjNQ
+https://cyberuno.cdn.rcs.net.ar/mnp/elnueve/output.mpd
 
 
 
 
 #EXTINF:-1 tvg-id="232408" tvg-name="Telefe.ar" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/telefe_argentina-mediano.png", Telefe.ar
-
+https://cyberuno.cdn.rcs.net.ar/mnp/yb00000004pgcoaan51zn2w74bzgpszr/output.mpd
 
 
 
@@ -63,15 +63,15 @@ https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/12.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/e_-mediano.png", E! Entertainment.ar
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ba1d6d67d34844a4adb457ccb66bd641:d4740f95189dc19a6d7185821c5392ee
-https://ciades.providers.com.ar/ENTRETEINEME/index.mpd?token=ekSXXI6K0deAr1xhtVNjTKEu6rHuWqCF
+
+
+
 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tlc-mediano.png", TLC.ar
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=828c5dd2bf4142d18975a7d677392328:011fafa6e4879c08a6fb526d585e7ae1
-https://ciades.providers.com.ar/TLC/index.mpd?token=ekSXXI6K0deAr1xhtVNjTKEu6rHuWqCF
+
+
+
 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tnt_novelas_latinoamerica-mediano.png", TNT Novelas.ar
@@ -81,9 +81,9 @@ http://chile.latamgo.xyz:80/play/2xsv8Kctp3B7O_gwUapvIZZEfVD2J7n8bE8HUXdvcGMDe5C
 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/amc_series-mediano.png", Amc Series.ar
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=10d3d4f33a6bad277accc2688c46b406:588fd56bcab1fcdb4f33b5c2f7018d29
-https://ciades.providers.com.ar/AMC_Series/SA_Live_dash_enc/AMC_Series.mpd/index.mpd?token=ekSXXI6K0deAr1xhtVNjTKEu6rHuWqCF
+
+
+
 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/lifetime_latinoamerica-mediano.png", Lifetime.ar
@@ -93,9 +93,9 @@ https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/84.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hola_tv-mediano.png", Hola TV.ar
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=5d759477f0ad1bdef2c6de09e7c275fd:82cc6eea185eecc934df95adfbbf9dbc
-https://ciades.providers.com.ar/Hola_TV/SA_Live_dash_enc/Hola_TV.mpd/index.mpd?token=ekSXXI6K0deAr1xhtVNjTKEu6rHuWqCF
+
+
+
 
 
 
@@ -165,9 +165,9 @@ https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/14.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/disney_channel-mediano.png", Disney Channel.ar
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3efc6a1d8be643b181a4faddecdaaa4a:c1073ade101454cb36535f7cf037ca4c
-https://ciades.providers.com.ar/DISNEYCH/index.mpd?token=ekSXXI6K0deAr1xhtVNjTKEu6rHuWqCF
+
+
+
 
 
 
@@ -179,21 +179,21 @@ https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/disney_jr.stream/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/cartoon_network_latinoamerica-mediano.png", Cartoon Network.ar
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=da2dde59cf754e6a8858cd46519e2edd:6240ac042f2e28fcf153ad2f6479c5ca
-https://ciades.providers.com.ar/CTN/index.mpd?token=ekSXXI6K0deAr1xhtVNjTKEu6rHuWqCF
+
+
+
 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/cartoonito-mediano.png", Cartoonito.ar
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=8b2c521e9ba94467bc408ee5c0c8ffb4:e5123b38f420ac82e12f10dda7724c59
-https://ciades.providers.com.ar/CARTOONITO/index.mpd?token=ekSXXI6K0deAr1xhtVNjTKEu6rHuWqCF
+
+
+
 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/discovery_kids-mediano.png", Discovery Kids.ar
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=57ff1c0a7c0c41239892a702611a269f:ec5a63e3ce01666c0e35ac74fc585af6
-https://ciades.providers.com.ar/DISCOVERY_KIDS/index.mpd?token=ekSXXI6K0deAr1xhtVNjTKEu6rHuWqCF
+
+
+
 
 
 
@@ -203,15 +203,15 @@ https://ciades.providers.com.ar/DISCOVERY_KIDS/index.mpd?token=ekSXXI6K0deAr1xht
 
 
 #EXTINF:-1 tvg-id="232334" tvg-name="TNT Sports Premium.ar" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tnt_sports-mediano.png", TNT Sports Premium.ar
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=302c2d57aa5c444f86d427508c1c6714:0be2509f8befc2399b9fb7f236b63c7d
-https://ciades.providers.com.ar/TNT_SPORTS/index.mpd?token=ekSXXI6K0deAr1xhtVNjTKEu6rHuWqCF
+
+
+
 
 
 #EXTINF:-1 tvg-id="232333" tvg-name="Espn Premium.ar" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_premium-mediano.png", Espn Premium.ar
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=00e08f97d3104d8ba550414f41b48761:ed9c6e30925d4efe6c7374b764c67ec4
-https://ciades.providers.com.ar/ESPNPREMIUM/index.mpd?token=ekSXXI6K0deAr1xhtVNjTKEu6rHuWqCF
+
+
+
 
 
 #EXTINF:-1 tvg-id="232365" tvg-name="Espn.ar" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_norte-mediano.png", Espn.ar
@@ -239,27 +239,27 @@ https://vcdn.mn10.entel.bo/Content/DASH/Live/Channel(9500bf02-0001-4199-a150-58d
 
 
 #EXTINF:-1 tvg-id="279615" tvg-name="Fox Sports.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/54/Fox_Sports_Argentina_2026.webp", Fox Sports.ar
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=5017e89955f44ff5b4ddf04e5f5151c6:55136a837a0c8bbcfc7ce65cbd9a547c
-https://ciades.providers.com.ar/FOXSPORTS /index.mpd?token=ekSXXI6K0deAr1xhtVNjTKEu6rHuWqCF
+
+
+
 
 
 #EXTINF:-1 tvg-id="279613" tvg-name="Fox Sports 2.ar" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/70/Fox_Sports_2_2026.png/revision/latest/scale-to-width-down/250?cb=20260204193820", Fox Sports 2.ar
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e0e38315c40c4176bab472b349c551ae:d2f1712fc296fee968c7ae0750b2c45b
-https://ciades.providers.com.ar/FOXSPORTS2/index.mpd?token=ekSXXI6K0deAr1xhtVNjTKEu6rHuWqCF
+
+
+
 
 
 #EXTINF:-1 tvg-id="279614" tvg-name="Fox Sports 3.ar" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a1/Fox_Sports_3_2026.png/revision/latest/scale-to-width-down/250?cb=20260204193828", Fox Sports 3.ar
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c72cc2fd2ce34ff78b71765fb85f990d:05fcda26315ffe49f178eca1423831f5
-https://ciades.providers.com.ar/FOXSPORTS3/index.mpd?token=ekSXXI6K0deAr1xhtVNjTKEu6rHuWqCF
+
+
+
 
 
 #EXTINF:-1 tvg-id="279616" tvg-name="TyC Sports.ar" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tyc_sports-mediano.png", TyC Sports.ar
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=dbe265d99e9a4445a4a47bcac4ddc3d8:9cd1be2017b886e452443bec4e37e214
-https://ciades.providers.com.ar/TYC/index.mpd?token=ekSXXI6K0deAr1xhtVNjTKEu6rHuWqCF
+
+
+
 
 
 
@@ -281,9 +281,9 @@ https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/hboplus/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_2_latinoamerica-mediano.png", HBO 2.ar
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a319626ac2054f07990f43ba35535c47:7cd36113800fcbfab64bff7a38144c70
-https://ciades.providers.com.ar/HBO2/index.mpd?token=ekSXXI6K0deAr1xhtVNjTKEu6rHuWqCF
+
+
+
 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_family-mediano.png", HBO Family.ar
@@ -365,9 +365,9 @@ https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/StarChannel.stream/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/sony_movies-mediano.png", SONY MOVIES.ar
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=53aac4c5873644c4b247672667baf3f7:d0e2ac611a251b9088ca9a874b0e1126
-https://ciades.providers.com.ar/SONY_MOVIE/index.mpd?token=ekSXXI6K0deAr1xhtVNjTKEu6rHuWqCF
+
+
+
 
 
 #EXTINF:-1 tvg-id="321153" tvg-name="SONY CINE.mx" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fb/Sony_Cine_2021_Logo.png/revision/latest?cb=20210222022500&path-prefix=es", SONY CINE.mx
@@ -387,16 +387,14 @@ https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/universal/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/universal_premiere-mediano.png", Universal Premiere.uy
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36
-https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/universalcrime/playlist.m3u8
-
-
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"4518f2fc410a5327b26a26e8c0cebd17":"16da291229b2b68ded5419cc35339beb","3ef088eaf6685839a1d77c9bc89b1e20":"68c8566c7cb4400fac63d0abe8eea6d4","2528892552c65b5399017c2f2a194ab7":"fc87001860c95eb094c2dd5fc2d2e2bd"}
+https://unipluslivedash.akamaized.net/universalpremiert0/manifest.mpd
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/universal_cinema-mediano.png", Universal Cinema.uy
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36
-https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/universalcinema/playlist.m3u8
-
-
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"693c14512fe754679776b9352fa84fa2":"5c04eb44db6dfabcbb73be28408e831d","47b9ccb70c5c512f9195712d11923df6":"8a7dba41bad7d0f2a9ebecd3eaf9c2ff","e97732b12ed754588cd3e01e3e6ea7ee":"494c340693c70e21b4490c2ec6430627"}
+https://unipluslivedash.akamaized.net/universalcinemat0/manifest.mpd
 
 #EXTINF:-1 tvg-id="279643" tvg-name="Golden.ar" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/golden-mediano.png", Golden.ar
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36
@@ -469,9 +467,9 @@ https://tvfuego.cdn.rcs.net.ar/HGxWMSZtXcn2A3b9zrDfUL/filmsarts/output.mpd
 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tnt_series-mediano.png", TNT Series.ar
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=23d16f5cb38b407493aa7d35a36920bc:4f1e2d6bddeaf0d082b846f04c41cbc5
-https://ciades.providers.com.ar/TNTSERIES/index.mpd?token=ekSXXI6K0deAr1xhtVNjTKEu6rHuWqCF
+
+
+
 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/a_y_e_latinoamerica-mediano.png", AandE.ar
@@ -481,16 +479,15 @@ https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/aye.stream/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/axn-mediano.png", AXN.ar
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d0eb282ee04544128d6735fe8add8a6c:db14571fc69a640de42765856ef3edfa
-https://ciades.providers.com.ar/AXN/index.mpd?token=ekSXXI6K0deAr1xhtVNjTKEu6rHuWqCF
+
+
+
 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/universal_reality-mediano.png", Universal Reality.uy
-https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/372.m3u8
-
-
-
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"25261b6f75ce58bc9be5e25b438e2af7":"dd8f7f46cb39d619f63a1b01ecdd0b78","e7e60190bf265d0db1090b8ed7c06c3a":"ed2a63ff6b077418967882439a2ab12a","5d494197700f5d238b86c9ef2c40cb1a":"171a6b6ba3b7acd781085c03036572e7"}
+https://unipluslivedash.akamaized.net/universalrealityt0/manifest.mpd
 
 
 
