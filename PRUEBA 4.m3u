@@ -1,7 +1,7 @@
 #EXTM3U x-tvg-url="https://www.open-epg.com/files/argentina.xml,https://www.open-epg.com/files/uruguay.xml,https://www.open-epg.com/files/mexico2.xml,https://www.open-epg.com/files/colombia2.xml,https://www.open-epg.com/files/peru.xml"
 
 #EXTINF:-1,N
-https://cyberuno.cdn.rcs.net.ar/mnp/yb00000004pgcan51zn2w74bzgpszr/output.mpoad
+https://cyberuno.cdn.rcs.net.ar/mnp/yb00000004pgcoaan51zn2w74bzgpszr/output.mpd
 
 
 
@@ -63,13 +63,13 @@ https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/12.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/e_-mediano.png", E! Entertainment.ar
-
+https://cyberuno.cdn.rcs.net.ar/mnp/eent/output.mpd
 
 
 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tlc-mediano.png", TLC.ar
-
+https://cyberuno.cdn.rcs.net.ar/mnp/dsc_tlc/output.mpd
 
 
 
@@ -81,7 +81,7 @@ http://chile.latamgo.xyz:80/play/2xsv8Kctp3B7O_gwUapvIZZEfVD2J7n8bE8HUXdvcGMDe5C
 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/amc_series-mediano.png", Amc Series.ar
-
+https://cyberuno.cdn.rcs.net.ar/mnp/maschic/output.mpd
 
 
 
@@ -203,13 +203,13 @@ https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/disney_jr.stream/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="232334" tvg-name="TNT Sports Premium.ar" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tnt_sports-mediano.png", TNT Sports Premium.ar
-
+https://cyberuno.cdn.rcs.net.ar/mnp/tntsports/output.mpd
 
 
 
 
 #EXTINF:-1 tvg-id="232333" tvg-name="Espn Premium.ar" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_premium-mediano.png", Espn Premium.ar
-
+https://cyberuno.cdn.rcs.net.ar/mnp/espnpremium/output.mpd
 
 
 
@@ -239,29 +239,28 @@ https://vcdn.mn10.entel.bo/Content/DASH/Live/Channel(9500bf02-0001-4199-a150-58d
 
 
 #EXTINF:-1 tvg-id="279615" tvg-name="Fox Sports.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/54/Fox_Sports_Argentina_2026.webp", Fox Sports.ar
-
+https://cyberuno.cdn.rcs.net.ar/mnp/fox_sport/output.mpd
 
 
 
 
 #EXTINF:-1 tvg-id="279613" tvg-name="Fox Sports 2.ar" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/70/Fox_Sports_2_2026.png/revision/latest/scale-to-width-down/250?cb=20260204193820", Fox Sports 2.ar
-
+https://cyberuno.cdn.rcs.net.ar/mnp/fox_sport2/output.mpd
 
 
 
 
 #EXTINF:-1 tvg-id="279614" tvg-name="Fox Sports 3.ar" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a1/Fox_Sports_3_2026.png/revision/latest/scale-to-width-down/250?cb=20260204193828", Fox Sports 3.ar
-
+https://cyberuno.cdn.rcs.net.ar/mnp/fox_sport3/output.mpd
 
 
 
 
 #EXTINF:-1 tvg-id="279616" tvg-name="TyC Sports.ar" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tyc_sports-mediano.png", TyC Sports.ar
-
-
-
-
-
+#EXTVLCOPT:http-referrer=https://play.tycsports.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6998.166 Safari/537.36
+#EXTHTTP:{"cookie":"","referer":"https://play.tycsports.com/","user-agent":"Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6998.166 Safari/537.36"}
+https://live-04-11-tyc24.vodgc.net/tyc24/index.m3u8
 
 
 
@@ -281,7 +280,7 @@ https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/hboplus/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_2_latinoamerica-mediano.png", HBO 2.ar
-
+https://cyberuno.cdn.rcs.net.ar/mnp/hbo2/output.mpd
 
 
 
@@ -467,7 +466,7 @@ https://tvfuego.cdn.rcs.net.ar/HGxWMSZtXcn2A3b9zrDfUL/filmsarts/output.mpd
 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tnt_series-mediano.png", TNT Series.ar
-
+https://cdn.prepro.cvattv.com.ar/ds5x3ppfiuk96/out/v1/TNTSeries3/SA_Live_dash_enc/TNTSeries.mpd
 
 
 
@@ -479,7 +478,7 @@ https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/aye.stream/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/axn-mediano.png", AXN.ar
-
+https://cyberuno.cdn.rcs.net.ar/mnp/axn/output.mpd
 
 
 
@@ -545,39 +544,39 @@ http://181.78.15.155:9800/play/a00e
 
 
 #EXTINF:-1 tvg-id="232409" tvg-name="TN.ar" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/todo_notcias-mediano.png", TN.ar
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=56cdad17841e477a9755db0ac6f51a6b:994107d6f0afa4dfdd42b805b88a653f
-https://ciades.providers.com.ar/TN /index.mpd?token=ekSXXI6K0deAr1xhtVNjTKEu6rHuWqCF
+https://live-01-01-tn.vodgc.net/TN_DAI_Beta/index.m3u8
+
+
 
 
 #EXTINF:-1 tvg-id="232375" tvg-name="C5N.ar" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/c5n-mediano.png", C5N.ar
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ab68c6d7ff314f20bb2c506ded6ec00f:63879fbfe8ecf80118dae54e51dd970c
-https://ciades.providers.com.ar/C5N/index.mpd?token=ekSXXI6K0deAr1xhtVNjTKEu6rHuWqCF
+https://cyberuno.cdn.rcs.net.ar/mnp/c5n/output.mpd
+
+
 
 
 #EXTINF:-1 tvg-id="232335" tvg-name="Cronica Tv.ar" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/cronica_television-mediano.png", Cronica Tv.ar
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=07d860b0d4e94a568671014685f4d7af:83d180ec315ada84c2f9c9064664374a
-https://ciades.providers.com.ar/CRONICATV/index.mpd?token=ekSXXI6K0deAr1xhtVNjTKEu6rHuWqCF
+https://cyberuno.cdn.rcs.net.ar/anevia/live/localdisk/Cronica/SA_HLS/Cronica.m3u8
+
+
 
 
 #EXTINF:-1 tvg-id="280093" tvg-name="La Nacion+.ar" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/la_nacion_mas-mediano.png", La Nacion+.ar
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=03fa99b689194ebd981d8e8c6f3338eb:9e7a7fd5721c251bfb0a22660c994e4e
-https://ciades.providers.com.ar/LANACION/index.mpd?token=ekSXXI6K0deAr1xhtVNjTKEu6rHuWqCF
+https://cyberuno.cdn.rcs.net.ar/mnp/lnmas/output.mpd
+
+
 
 
 #EXTINF:-1 tvg-id="232378" tvg-name="Canal 26.ar" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/26_de_argentina-mediano.png", Canal 26.ar
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=65efb1eeac3d42c48b0429e51d1707c7:287dceaf16ea2f0dcd943e6fefb009e4
-https://ciades.providers.com.ar/CANAL26/index.mpd?token=ekSXXI6K0deAr1xhtVNjTKEu6rHuWqCF
+https://stream-gtlc.telecentro.net.ar/hls/canal26hls/main.m3u8
+
+
 
 
 #EXTINF:-1 tvg-id="232376" tvg-name="A24.ar" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/a_24-mediano.png", A24.ar
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=b72f8e51e29c4ac18c24101afbcfffc0:42bada901fda76701b1f7d925bd08856
-https://ciades.providers.com.ar/A24/index.mpd?token=ekSXXI6K0deAr1xhtVNjTKEu6rHuWqCF
+https://g1.vxral-hor.transport.edge-access.net/a15/ngrp:a24-100056_all/a24-100056.m3u8
+
+
 
 
 
@@ -677,9 +676,9 @@ https://live1-ott.izzigo.tv/15/out/u/dash/SKY-STINGRAY-CONCERT-HD/default.mpd
 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/elgourmet-mediano.png", El Gourmet.ar
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=da5c0e67b6004518a0dc2e5059e5f30c:12331e514c8d333ba6c960b9a156b63c
-https://ciades.providers.com.ar/ELGOURMET/index.mpd?token=ekSXXI6K0deAr1xhtVNjTKEu6rHuWqCF
+https://cyberuno.cdn.rcs.net.ar/mnp/gourmet/output.mpd
+
+
 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f9/Food_Network_New_Logo.png", Food Network.ar
@@ -700,256 +699,3 @@ https://ciades.providers.com.ar/Sun_Channel/SA_Live_dash_enc/Sun_Channel.mpd/ind
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=2efef3f382a84f1189d800924e4f8d86:85016efd8145f3a3b0226dc5fd3c8827
 https://ciades.providers.com.ar/DREAMWORKS/index.mpd?token=ekSXXI6K0deAr1xhtVNjTKEu6rHuWqCF
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
